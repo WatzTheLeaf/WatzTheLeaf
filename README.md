@@ -28,7 +28,7 @@ Here you'll find the technologies I want to learn soon.
 
 `>` **Programming languages**
 
-<img src="https://skills.thijs.gg/icons?i=kotlin,haskell,cpp" alt="Programming languages" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=kotlin,rust,cpp" alt="Programming languages" height="40"/>
 
 `>` **Web development**
 
