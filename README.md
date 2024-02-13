@@ -16,7 +16,7 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Tooling**
 
-<img src="https://skills.thijs.gg/icons?i=md,unity,unreal,linux,idea,eclipse,git,github,linkedin" alt="Tooling & other" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=bash,linux,md,unity,unreal,idea,eclipse,github,git,linkedin" alt="Tooling & other" height="40"/>
 
 `>` **Design**
 
@@ -41,7 +41,3 @@ Here you'll find the technologies I want to learn soon.
 ## `📫 Contact me`
 
 You can found my contact informations directly on [`my 2023 portfolio`](https://watztheengineer-2023-portfolio.vercel.app/) !
-
-[^credits]
-
-[^credits]: profile inspired by [xtrm-en](https://github.com/xtrm-en/xtrm-en)
