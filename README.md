@@ -8,7 +8,7 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Programming languages**
 
-<img src="https://skills.thijs.gg/icons?i=java,python,cs" alt="Programming languages" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=bash,java,python,cs,html,css,js" alt="Programming languages" height="40"/>
 
 `>` **Web development**
 
@@ -16,7 +16,7 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Tooling**
 
-<img src="https://skills.thijs.gg/icons?i=bash,linux,debian,md,unity,unreal,idea,eclipse,github,git,linkedin" alt="Tooling & other" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=linux,debian,md,unity,unreal,idea,eclipse,github,git,linkedin" alt="Tooling & other" height="40"/>
 
 `>` **Design**
 
