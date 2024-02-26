@@ -16,7 +16,7 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Tooling**
 
-<img src="https://skills.thijs.gg/icons?i=bash,linux,md,unity,unreal,idea,eclipse,github,git,linkedin" alt="Tooling & other" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=bash,linux,debian,md,unity,unreal,idea,eclipse,github,git,linkedin" alt="Tooling & other" height="40"/>
 
 `>` **Design**
 
@@ -24,7 +24,7 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 ## `📚 Learning list`
 
-Here you'll find the technologies I want to learn soon.
+Here you'll find the technologies I am learning to use.
 
 `>` **Programming languages**
 
@@ -36,7 +36,7 @@ Here you'll find the technologies I want to learn soon.
 
 `>` **Tooling**
 
-<img src="https://skills.thijs.gg/icons?i=docker" alt="Tooling & other" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=docker,tauri" alt="Tooling & other" height="40"/>
 
 ## `📫 Contact me`
 
