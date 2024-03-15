@@ -16,11 +16,11 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Tooling**
 
-<img src="https://skills.thijs.gg/icons?i=linux,debian,md,unity,unreal,idea,eclipse,github,git,linkedin" alt="Tooling & other" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=linux,debian,md,unity,unreal,idea,eclipse,github,git,docker,linkedin" alt="Tooling" height="40"/>
 
 `>` **Design**
 
-<img src="https://skills.thijs.gg/icons?i=blender,ps,ae,pr" alt="Digital design" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=blender,ps,ae,pr" alt="Design" height="40"/>
 
 ## `📚 Learning list`
 
@@ -36,7 +36,7 @@ Here you'll find the technologies I am learning to use.
 
 `>` **Tooling**
 
-<img src="https://skills.thijs.gg/icons?i=docker,tauri" alt="Tooling & other" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=tauri" alt="Tooling" height="40"/>
 
 ## `📫 Contact me`
 
