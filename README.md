@@ -10,13 +10,17 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 <img src="https://skills.thijs.gg/icons?i=bash,java,python,cs,html,css,js" alt="Programming languages" height="40"/>
 
+`>` **IDE & Editors**
+
+<img src="https://skills.thijs.gg/icons?i=idea,webstorm,androidstudio,eclipse,vscode,visualstudio" alt="Programming languages" height="40"/>
+
 `>` **Web development**
 
 <img src="https://skills.thijs.gg/icons?i=threejs,vite" alt="Web technologies" height="40"/>
 
 `>` **Tooling**
 
-<img src="https://skills.thijs.gg/icons?i=linux,debian,md,unity,unreal,idea,eclipse,github,git,docker,linkedin" alt="Tooling" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=linux,debian,md,unity,unreal,github,git,docker,linkedin" alt="Tooling" height="40"/>
 
 `>` **Design**
 
@@ -28,11 +32,11 @@ Here you'll find the technologies I am learning to use.
 
 `>` **Programming languages**
 
-<img src="https://skills.thijs.gg/icons?i=kotlin,rust,cpp" alt="Programming languages" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=rust,cpp" alt="Programming languages" height="40"/>
 
 `>` **Web development**
 
-<img src="https://skills.thijs.gg/icons?i=react" alt="Web technologies" height="40"/>
+<img src="https://skills.thijs.gg/icons?i=tailwind" alt="Web technologies" height="40"/>
 
 `>` **Tooling**
 
