@@ -1,8 +1,8 @@
 # Welcome to my Github profile
 
-## `Who am I`
+## `🇫🇷 Who am I`
 
-I'm a French 🇫🇷 student in IT and computing who enjoys developing all kinds of programs and software. I'm also interested in video game development and digital design.
+I'm a French student in IT and computing who enjoys developing all kinds of programs and software. I'm also interested in video game development and digital design.
 
 ## `🛠️ Technologies`
 
