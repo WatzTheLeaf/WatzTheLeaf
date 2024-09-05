@@ -2,11 +2,11 @@
 
 ## `🇫🇷 Who am I`
 
-I'm a French student in IT and computing who enjoys developing all kinds of programs and software. I'm also interested in video game development and digital design.
+I'm a French student in IT and game development. I'm also interested in game design and digital arts.
 
 ## `🛠️ Technologies`
 
-Here you'll find some of the tools I've learned to use and work with, including programming languages, some Web frameworks, as well as some software I like.
+Here you'll find some of the tools I've learned to use and work with, including programming languages, some web frameworks, as well as some software I like.
 
 `>` **Programming languages**
 
@@ -34,7 +34,7 @@ Here you'll find the technologies I am learning to use.
 
 `>` **Programming languages**
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,crystal" alt="Programming languages" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp,crystal" alt="Programming languages" height="40"/>
 
 `>` **Tooling**
 
