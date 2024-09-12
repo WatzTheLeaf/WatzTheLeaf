@@ -34,12 +34,12 @@ Here you'll find the technologies I am learning to use.
 
 `>` **Programming languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,crystal" alt="Programming languages" height="40"/>
+<img src="https://skillicons.dev/icons?i=rust,cpp,crystal" alt="Programming languages" height="40"/>
 
 `>` **Tooling**
 
-<img src="https://skillicons.dev/icons?i=tauri" alt="Tooling" height="40"/>
+<img src="https://skillicons.dev/icons?i=tauri,godot" alt="Tooling" height="40"/>
 
 ## `📫 Contact me`
 
-You can found my contact informations directly on [`my 2023 portfolio`](https://watztheengineer-2023-portfolio.vercel.app/)
+You can found my contact informations directly on my LinkedIn
