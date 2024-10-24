@@ -34,7 +34,7 @@ Here you'll find the technologies I am learning to use.
 
 `>` **Programming languages**
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,crystal" alt="Programming languages" height="40"/>
+<img src="https://skillicons.dev/icons?i=rust,cpp" alt="Programming languages" height="40"/>
 
 `>` **Tooling**
 
@@ -42,7 +42,7 @@ Here you'll find the technologies I am learning to use.
 
 `>` **Web development**
 
-<img src="https://skillicons.dev/icons?i=vue" alt="Web technologies" height="40"/>
+<img src="https://skillicons.dev/icons?i=vue,tailwind" alt="Web technologies" height="40"/>
 
 ## `📫 Contact me`
 
