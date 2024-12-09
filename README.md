@@ -10,7 +10,7 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Programming languages**
 
-<img src="https://skillicons.dev/icons?i=bash,java,python,cs,dotnet,html,css,js,sqlite" alt="Programming languages" height="40"/>
+<img src="https://skillicons.dev/icons?i=bash,java,python,cpp,cs,html,css,js,sqlite" alt="Programming languages" height="40"/>
 
 `>` **IDE & Editors**
 
@@ -18,11 +18,11 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Web development**
 
-<img src="https://skillicons.dev/icons?i=threejs,vite,bootstrap" alt="Web technologies" height="40"/>
+<img src="https://skillicons.dev/icons?i=threejs,vite,vue,tailwind,bootstrap" alt="Web technologies" height="40"/>
 
 `>` **Tooling**
 
-<img src="https://skillicons.dev/icons?i=linux,debian,raspberrypi,md,npm,tauri,unity,unreal,github,git,docker,linkedin" alt="Tooling" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux,debian,raspberrypi,md,npm,tauri,unreal,github,git,docker,dotnet,linkedin" alt="Tooling" height="40"/>
 
 `>` **Design**
 
@@ -34,15 +34,11 @@ Here you'll find the technologies I am learning to use.
 
 `>` **Programming languages**
 
-<img src="https://skillicons.dev/icons?i=rust,cpp" alt="Programming languages" height="40"/>
+<img src="https://skillicons.dev/icons?i=rust" alt="Programming languages" height="40"/>
 
 `>` **Tooling**
 
-<img src="https://skillicons.dev/icons?i=godot" alt="Tooling" height="40"/>
-
-`>` **Web development**
-
-<img src="https://skillicons.dev/icons?i=vue,tailwind" alt="Web technologies" height="40"/>
+<img src="https://skillicons.dev/icons?i=godot,unity" alt="Tooling" height="40"/>
 
 ## `📫 Contact me`
 
