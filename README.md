@@ -22,7 +22,7 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Tooling**
 
-<img src="https://skillicons.dev/icons?i=linux,debian,raspberrypi,md,npm,tauri,unreal,github,git,docker,dotnet,linkedin" alt="Tooling" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux,debian,raspberrypi,md,npm,tauri,unreal,godot,github,git,docker,dotnet,linkedin" alt="Tooling" height="40"/>
 
 `>` **Design**
 
@@ -38,8 +38,4 @@ Here you'll find the technologies I am learning to use.
 
 `>` **Tooling**
 
-<img src="https://skillicons.dev/icons?i=godot,unity" alt="Tooling" height="40"/>
-
-## `📫 Contact me`
-
-You can found my contact informations directly on my LinkedIn.
+<img src="https://skillicons.dev/icons?i=unity" alt="Tooling" height="40"/>
