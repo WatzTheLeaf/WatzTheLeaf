@@ -14,7 +14,7 @@ Here you'll find some of the tools I've learned to use and work with, including 
 
 `>` **Web development**
 
-<img src="https://skillicons.dev/icons?i=nodejs,npm,threejs,vite,vue,tailwind" alt="Web technologies" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,npm,threejs,vite,vue,tailwind,nest" alt="Web technologies" height="40"/>
 
 `>` **Tooling**
 
